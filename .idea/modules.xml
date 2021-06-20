@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aceleracao Dio_Dev.iml" filepath="$PROJECT_DIR$/.idea/Aceleracao Dio_Dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtualizacaoJavaAulas/AtualizacaoJavaAulas.iml" filepath="$PROJECT_DIR$/AtualizacaoJavaAulas/AtualizacaoJavaAulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulaJava/AulaJava.iml" filepath="$PROJECT_DIR$/AulaJava/AulaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeColectionSet/testeColectionSet.iml" filepath="$PROJECT_DIR$/testeColectionSet/testeColectionSet.iml" />
+    </modules>
+  </component>
+</project>
